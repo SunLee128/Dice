@@ -1,9 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dice
+React app shakes two dice with a button. 
+Practicing how to passing a state for parent as props.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-
-
-passing a state for parent as props
+#### Link
+http://dice-by-sl.surge.sh/
